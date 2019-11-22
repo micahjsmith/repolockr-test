@@ -1,2 +1,6 @@
-block:
+lock:
     - important.txt
+
+branches:
+  allow:
+    - master
